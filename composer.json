@@ -23,7 +23,7 @@
             "Core\\": "Core/"
         },
         "files": [
-            "app/config.php"
+            "app/Config/Database.php"
         ]
     }
 }
